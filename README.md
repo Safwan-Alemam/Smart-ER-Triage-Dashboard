@@ -22,8 +22,8 @@ A digital board for hospital emergency departments. It orders patients by clinic
 | 1 | Jamaan Al-Buqami | Frontend development |
 | 2 | Safwan Alimam | KPIs and target-time logic |
 | 3 | Nada Al-Harbi | Process framework (As-Is / To-Be) |
-| 4 | Manar Al-Anzi | Marketing presentation |
-| 5 | Al-Baraa Al-Baladi | Marketing presentation |
+| 4 | Manar Al_Enezi | Marketing presentation |
+| 5 | Albaraa Albiladi | Marketing presentation |
 | 6 | Abdullah Al-Dhamdi | Marketing presentation |
 | 4 | Turki Al-Aqlaa | Marketing presentation |
 
