@@ -122,4 +122,4 @@ index.html     # entry page
 - [x] GitHub repository with code, project steps, and team members
 - [x] Process improvement framework, problem to solution
 - [x] KPIs to measure project success
-- [ ] Marketing presentation
+- [x] Marketing presentation
